@@ -1,4 +1,4 @@
-QL Commands Exercise
+SQL Commands Exercise
 
 ## Objectives
 * Gain practice using Postgres SQL commands
